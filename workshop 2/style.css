@@ -1,0 +1,44 @@
+.header {
+  color: #785a8f;
+  width: 400px;
+  border-radius: 10px;
+  padding: 2%;
+  text-align: center;
+  border: 3px solid #785a8f;
+}
+
+.text {
+  font-size: 1.5em;
+  background-color: #fffa82;
+  width: 400px;
+  border-radius: 10px;
+  text-align: center;
+
+  /* padding helps to create more space within a div */
+  padding: 2%;
+
+  /* margins create the gaps between divs */
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+#red {
+  color: red;
+}
+
+#red:visited {
+  color: blue;
+}
+
+/* button stylings */
+.button-styling {
+  font-size: 2em;
+  border: 2.5px solid black;
+  border-radius: 4px;
+}
+
+.button-styling:hover {
+  background-color: purple;
+  color: white;
+  border-color: orange;
+}
