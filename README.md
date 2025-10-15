@@ -7,7 +7,9 @@ this repo is where we will store starter code and upload example code that we wo
 ### workshop 1 (10/07): intro to html
 covered basic html file structure, introduced basic element tags (p, img, a, li, ul, ol, h1-h6) as well as structure tags (div, header, nav, footer)
 
-### workshop 2 (10/14): intro to css, flex, and box
+### workshop 2 (10/14): intro to css, box model, and flex box
+covered css basics and different types of selectors, like element, id, class, and pseudo selectors.
+also covered box model and flex box basics (padding, border, margins).
 
 ### workshop 3 (10/21): javascript basics
 

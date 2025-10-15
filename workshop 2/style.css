@@ -26,10 +26,6 @@
   color: red;
 }
 
-#red:visited {
-  color: blue;
-}
-
 /* button stylings */
 .button-styling {
   font-size: 2em;
@@ -41,4 +37,8 @@
   background-color: purple;
   color: white;
   border-color: orange;
+}
+
+.button-styling:active {
+  background-color: green;
 }
