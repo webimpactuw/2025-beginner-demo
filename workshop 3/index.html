@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>JS Greeter Demo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Webpage Greeter</h1>
+    
+    <div class="container">
+        <label for="name-input">Enter Your Name:</label>
+        <input type="text" id="name-input" placeholder="e.g., Juliette">
+        
+        <button onclick="getName()">Say Hi!</button>
+        
+        <h2 id="greeting-output"></h2>
+
+        <!-- Activity -->
+        <h2>Number Generator</h2>
+        <div id="numbers">
+            <button onclick = "generateNumber()">Generate Number</button>
+            <div id="numberList"></div>
+        </div>
+
+        <h1>Color Generator</h1>
+        <div id="colors">
+            <button onclick = "generateColor()">Generate Color</button>
+            <div id="colorList"></div>
+        </div>
+
+        <h1>Numberbox Generator</h1>
+        <div id="numberboxes">
+            <button onclick="generateNumberbox()">Generate Numberbox </button>
+            <div id="numberboxList"></div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+
+</body>
+</html>
