@@ -12,8 +12,12 @@ covered css basics and different types of selectors, like element, id, class, an
 also covered box model and flex box basics (padding, border, margins).
 
 ### workshop 3 (10/21): javascript basics
+covered javascript basics like syntax, javascript in combination of html, and how to get familiar with the language.
+there is a code outline, script0, that has steps to play around with random numbers, arrays, and javascript in general.
 
 ### workshop 4 (10/28): intro to react
+covered the set up of a react environment and use of components to modularize development.
+also worked on creating a navbar component in workshop, with the final code updated here.
 
 ### workshop 5 (11/04): react hooks and state
 
