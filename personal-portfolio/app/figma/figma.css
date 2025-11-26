@@ -1,0 +1,44 @@
+.title {
+  color: #338DB4;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.cherry-blossoms {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-text {
+  font-size: 1.5em;
+  text-align: center;
+  width: 550px;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+
+.main-text-bold {
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: bold;
+  width: 550px;
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+
+.text {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.about-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+.about-image {
+  margin-right: 20px;
+}
