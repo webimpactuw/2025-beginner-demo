@@ -20,9 +20,14 @@ covered the set up of a react environment and use of components to modularize de
 also worked on creating a navbar component in workshop, with the final code updated here.
 
 ### workshop 5 (11/04): react hooks and state
+covered react hooks and state when working on the todo list demo, this included adding new todo list items and marking them as done.
 
 ### workshop 6 (11/18): intro to next.js
+covered next.js basics like routing, client vs server components, and apis.
+went over the creation of a projects page for the personal portfolio website that utilizes next.js components.
 
 ### workshop 7 (11/25): more next.js and figma to code
+covered some handy tips and tricks for translating a figma design into code, like groupings to divs, grabbing hex values, and exporting images/objects as svgs.
+also went over contact page creation for the personal portfolio website project.
 
 ### workshop 8 (12/02): deployment
